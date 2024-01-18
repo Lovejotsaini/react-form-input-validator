@@ -12,3 +12,4 @@ const validator = {
 };
 
 export default validator;
+export { isPasswordValid, isAlphabetValid, isEmailValid, isPhoneNumberValid };

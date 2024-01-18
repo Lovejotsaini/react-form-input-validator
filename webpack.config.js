@@ -2,15 +2,11 @@ const path = require("path");
 
 module.exports = {
   entry: {
-    email: "./src/EmailValidator.js",
-    phonenumber: "./src/PhoneNumberValidator.js",
-    alphabet: "./src/AlphabetValidator.js",
-    password: "./src/PasswordValidator.js",
-    validator: "./src/Validator.js",
+    validator: "./src/index.js",
   },
   output: {
     path: path.resolve(__dirname, "dist"),
-    filename: "[name].js",
+    filename: "index.js",
     libraryTarget: "umd",
     library: "saini-validator",
   },
