@@ -29,7 +29,13 @@ import {
 
 
 // Validate a password
-const passwordResult = isPasswordValid("SecureP@ss123");
+const passwordResult = isPasswordValid("SecureP@ss123",{
+        minLength: 10,
+        requireUppercase: true,
+        requireLowercase: true,
+        requireNumbers: true,
+        requireSpecialChars: true,
+      });
 
 // Validate an alphabet string
 const alphabetResult = isAlphabetValid("AbCdEfG");
