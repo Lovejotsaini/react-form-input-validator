@@ -8,7 +8,19 @@
     "build": "webpack --mode production"
   },
   "homepage": "https://github.com/Lovejotsaini/react-input-validator",
-  "keywords": [],
+  "keywords": [
+    "validator",
+    "validatorjs",
+    "npm validator",
+    "data validation",
+    "input validation",
+    "input validator",
+    "form validation",
+    "form validator",
+    "react validator",
+    "react input validator",
+    "validation","js validator"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
