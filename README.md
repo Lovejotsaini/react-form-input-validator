@@ -1,11 +1,11 @@
-# React Input Validator
+# React Form Input Validator
 
 This package provides a set of validation functions for common use cases. Each function helps you validate specific types of input, such as passwords, phone numbers, emails, and more.
 
 ## Installation
 
 ```bash
-  npm i react-input-validator
+ npm i react-form-input-validator
 
 ```
 
