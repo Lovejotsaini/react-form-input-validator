@@ -1,5 +1,5 @@
 {
-  "name": "saini-validator",
+  "name": "react-input-validator",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -19,7 +19,8 @@
     "form validator",
     "react validator",
     "react input validator",
-    "validation","js validator"
+    "validation",
+    "js validator"
   ],
   "author": "",
   "license": "ISC",

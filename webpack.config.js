@@ -8,7 +8,7 @@ module.exports = {
     path: path.resolve(__dirname, "dist"),
     filename: "index.js",
     libraryTarget: "umd",
-    library: "saini-validator",
+    library: "react-input-validator",
   },
   resolve: {
     extensions: [".js"],
