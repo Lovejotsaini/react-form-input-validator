@@ -1,7 +1,7 @@
 {
   "name": "react-input-validator",
   "version": "1.0.0",
-  "description": "",
+  "description": "input validator for react js",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -22,7 +22,7 @@
     "validation",
     "js validator"
   ],
-  "author": "",
+  "author": "Lovejot saini",
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",

@@ -59,7 +59,7 @@ class EmailValidator {
     }
   }
 }
-
+ 
 const isEmailValid = new EmailValidator();
 
 export default isEmailValid.validate.bind(isEmailValid);
