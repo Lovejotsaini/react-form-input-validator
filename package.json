@@ -1,6 +1,6 @@
 {
   "name": "react-input-validator",
-  "version": "1.0.2",
+  "version": "1.2.5",
   "description": "input validator for react js",
   "main": "dist/index.js",
   "scripts": {
@@ -22,10 +22,7 @@
     "validation",
     "js validator"
   ],
-  "author": {
-    "name": "Lovejot Saini",
-    "email": "lovejot.tech@gmail.com"
-  },
+  "author": "Lovejot Saini <lovejot.tech@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
