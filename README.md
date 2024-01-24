@@ -54,12 +54,12 @@ const passwordResult = isPasswordValid("SecureP@ss123", {
 //      isValid: false,
 //      errorMessage: "Password must contain at least one number.",
 //   }
-//4-  Check special characters
+//5-  Check special characters
 // {
 //       isValid: false,
 //       errorMessage: "Password must contain at least one special character.",
 //     }
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Validate an alphabet string
 const alphabetResult = isAlphabetValid("AbCdEfG");
 
