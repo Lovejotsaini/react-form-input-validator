@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production"
   },
-  "homepage": "https://github.com/Lovejotsaini/react-input-validator",
+  "homepage": "https://github.com/Lovejotsaini/react-input-validator#readme",
   "keywords": [
     "validator",
     "validatorjs",
@@ -22,7 +22,10 @@
     "validation",
     "js validator"
   ],
-  "author": "Lovejot saini",
+  "author": {
+    "name": "Lovejot Saini",
+    "email": "lovejot.tech@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
