@@ -67,9 +67,9 @@ const alphanumericResult = isAlphanumeric("Alpha123");
 |  isPasswordValid   |       Checks if the password meets specified criteria.       |           password: string, options: object            | minLength: 8, requireUppercase: true, requireLowercase: true, requireNumbers: true, requireSpecialChars: true |
 |  isAlphabetValid   |  Checks if the input consists only of alphabet characters.   |   input: string, length?: number, required: boolean    |                                                 length: null                                                  |
 | isPhoneNumberValid |             Checks if the phone number is valid.             | phoneNumber: string, length: number, required: boolean |                                                  length: 10                                                   |
-|    isEmailValid    |            Checks if the email address is valid.             |            email: string, required: boolean            |                                                      N/A                                                      |
-|      isAscii       |    Checks if the input consists only of ASCII characters.    |            input: string, required: boolean            |                                                      N/A                                                      |
-|   isAlphanumeric   | Checks if the input consists only of alphanumeric characters |            input: string, required: boolean            |                                                      N/A                                                      |
+|    isEmailValid    |            Checks if the email address is valid.             |            email: string, required: boolean            |                                                required:false                                                 |
+|      isAscii       |    Checks if the input consists only of ASCII characters.    |            input: string, required: boolean            |                                                required:false                                                 |
+|   isAlphanumeric   | Checks if the input consists only of alphanumeric characters |            input: string, required: boolean            |                                                required:false                                                 |
 
 ## Documentation
 
