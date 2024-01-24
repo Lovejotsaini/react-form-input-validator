@@ -44,6 +44,21 @@ const passwordResult = isPasswordValid("SecureP@ss123", {
 //     isValid: false,
 //     errorMessage: "Password must contain at least one uppercase letter.",
 //   }
+//3- Check lowercase letters
+// {
+//     isValid: false,
+//    errorMessage: "Password must contain at least one lowercase letter.",
+//   }
+//4- Check numbers
+// {
+//      isValid: false,
+//      errorMessage: "Password must contain at least one number.",
+//   }
+//4-  Check special characters
+// {
+//       isValid: false,
+//       errorMessage: "Password must contain at least one special character.",
+//     }
 
 // Validate an alphabet string
 const alphabetResult = isAlphabetValid("AbCdEfG");
