@@ -22,7 +22,7 @@ import {
   isEmailValid,
   isAscii,
   isAlphanumeric,
-} from "react-input-validator";
+} from "react-form-input-validator";
 
 // Validate a password
 const passwordResult = isPasswordValid("SecureP@ss123", {
@@ -72,5 +72,8 @@ const alphanumericResult = isAlphanumeric("Alpha123");
 |   isAlphanumeric   | Checks if the input consists only of alphanumeric characters |            input: string, required: boolean            |                                                required: false                                                |
 
 ## Documentation
+
+##Feedback and Contributions
+We're eager to hear your feedback and suggestions for react-form-input-validator. If you encounter any issues or have ideas for improvements, please open an issue.
 
 [Documentation](https://github.com/Lovejotsaini/react-input-validator)

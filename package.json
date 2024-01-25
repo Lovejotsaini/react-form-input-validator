@@ -1,6 +1,6 @@
 {
   "name": "react-form-input-validator",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "input validator for react js",
   "main": "dist/index.js",
   "scripts": {
@@ -25,7 +25,9 @@
     "validation form ",
     "react form validator",
     "validation",
-    "js validator"
+    "js validator",
+    "react",
+    "react js"
   ],
   "author": "Lovejot Saini <lovejot.tech@gmail.com>",
   "license": "ISC",
