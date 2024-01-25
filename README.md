@@ -73,7 +73,8 @@ const alphanumericResult = isAlphanumeric("Alpha123");
 
 ## Documentation
 
-##Feedback and Contributions
+## Feedback and Contributions
+
 We're eager to hear your feedback and suggestions for react-form-input-validator. If you encounter any issues or have ideas for improvements, please open an issue.
 
 [Documentation](https://github.com/Lovejotsaini/react-input-validator)
