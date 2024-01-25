@@ -15,5 +15,6 @@ const validator = {
   isAscii,
 };
 
+window.validators = validator;
 export default validator;
 export { isPasswordValid, isAlphabetValid, isEmailValid, isPhoneNumberValid };
