@@ -71,7 +71,7 @@ const alphanumericResult = isAlphanumeric("Alpha123");
 |    isEmailValid    |            Checks if the email address is valid.             |            email: string, required: boolean            |                                                required: false                                                |
 |      isAscii       |    Checks if the input consists only of ASCII characters.    |            input: string, required: boolean            |                                                required: false                                                |
 |   isAlphanumeric   | Checks if the input consists only of alphanumeric characters |            input: string, required: boolean            |                                                required: false                                                |
-|     isNumeric      |   Checks if the input consists only of numeric characters    |    input: string, required: boolean ,length: number    |
+|     isNumeric      |   Checks if the input consists only of numeric characters    |    input: string, required: boolean ,length: number    |                                                required: false                                                |
 
 ## Documentation
 
