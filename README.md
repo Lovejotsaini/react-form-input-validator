@@ -59,6 +59,7 @@ const alphanumericResult = isAlphanumeric("Alpha123");
 | isEmailValid       | { isValid: boolean, errorMessage: "string" } |
 | isAscii            | { isValid: boolean, errorMessage: "string" } |
 | isAlphanumeric     | { isValid: boolean, errorMessage: "string" } |
+| isNumeric          | { isValid: boolean, errorMessage: "string" } |
 
 ## List of validator functions available
 
@@ -70,6 +71,7 @@ const alphanumericResult = isAlphanumeric("Alpha123");
 |    isEmailValid    |            Checks if the email address is valid.             |            email: string, required: boolean            |                                                required: false                                                |
 |      isAscii       |    Checks if the input consists only of ASCII characters.    |            input: string, required: boolean            |                                                required: false                                                |
 |   isAlphanumeric   | Checks if the input consists only of alphanumeric characters |            input: string, required: boolean            |                                                required: false                                                |
+|     isNumeric      |   Checks if the input consists only of numeric characters    |    input: string, required: boolean ,length: number    |
 
 ## Documentation
 
