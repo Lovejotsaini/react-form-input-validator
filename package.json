@@ -1,6 +1,6 @@
 {
   "name": "react-form-input-validator",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "input validator for react js",
   "main": "dist/index.js",
   "scripts": {
